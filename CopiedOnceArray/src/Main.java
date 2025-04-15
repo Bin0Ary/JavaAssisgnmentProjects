@@ -27,7 +27,7 @@ public class Main {
             }
         }
         int iterator = 0;
-        int[] copiedNumberArray = new int[countedNumbers.length];
+        int[] copiedNumberArray = new int[countedNumbers.length * 2];
         for(int i = 0; i < copiedNumberArray.length; i += 2){
             for(int j = 0; j < 2; j++){
                 copiedNumberArray[i+j] = countedNumbers[iterator];
@@ -35,7 +35,7 @@ public class Main {
             iterator++;
         }
         for(int num : copiedNumberArray){
-            System.out.println((num));
+            System.out.print((num + " "));
         }
     }
 }

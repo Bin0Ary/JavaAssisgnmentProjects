@@ -14,7 +14,7 @@ public class Main {
             System.out.print(array[i] + " ");
         }
         System.out.println("\nPrinting Odd indices: ");
-        for(int i = 1; i <= arraySize; i += 2){
+        for(int i = 1; i <= arraySize - 1; i += 2){
             System.out.print(array[i] + " ");
         }
     }
