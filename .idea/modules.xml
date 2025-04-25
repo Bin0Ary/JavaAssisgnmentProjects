@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayCopy/ArrayCopy.iml" filepath="$PROJECT_DIR$/ArrayCopy/ArrayCopy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayNthBiggestNumber/ArrayNthBiggestNumber.iml" filepath="$PROJECT_DIR$/ArrayNthBiggestNumber/ArrayNthBiggestNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayRepeatingElement/ArrayRepeatingElement.iml" filepath="$PROJECT_DIR$/ArrayRepeatingElement/ArrayRepeatingElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayRepeatingElementPlusOne/ArrayRepeatingElementPlusOne.iml" filepath="$PROJECT_DIR$/ArrayRepeatingElementPlusOne/ArrayRepeatingElementPlusOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayTranspose/ArrayTranspose.iml" filepath="$PROJECT_DIR$/ArrayTranspose/ArrayTranspose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AscendingArray/AscendingArray.iml" filepath="$PROJECT_DIR$/AscendingArray/AscendingArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CopiedOnceArray/CopiedOnceArray.iml" filepath="$PROJECT_DIR$/CopiedOnceArray/CopiedOnceArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreatestSmallestArray/GreatestSmallestArray.iml" filepath="$PROJECT_DIR$/GreatestSmallestArray/GreatestSmallestArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdentityArray/IdentityArray.iml" filepath="$PROJECT_DIR$/IdentityArray/IdentityArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OddEvenArray/OddEvenArray.iml" filepath="$PROJECT_DIR$/OddEvenArray/OddEvenArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShiftArray/ShiftArray.iml" filepath="$PROJECT_DIR$/ShiftArray/ShiftArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatisticsArray/StatisticsArray.iml" filepath="$PROJECT_DIR$/StatisticsArray/StatisticsArray.iml" />
+    </modules>
+  </component>
+</project>
